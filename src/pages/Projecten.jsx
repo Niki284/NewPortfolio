@@ -1,9 +1,9 @@
 import React from 'react'
-import { Cards } from '../Component/Cards'
+import { Cards } from '../Component/Cards/Cards'
 const Projecten = () => {
   return (
-    <div>
-      <h1>Projecten</h1>
+    <div className='main'>
+      <h1 className='contact--title'>Projecten</h1>
     <Cards />
     </div>
   )

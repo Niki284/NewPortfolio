@@ -29,7 +29,7 @@
           {   
             "id": 4,
             "name": "Eerste project 3d",
-            "picture": "../Img/logobootstrap.png",
+            "picture": "../Img/eiland.jpg",
             "github": "https://github.com/pgmgent-2324-iwebapp/interactive-diorama-Niki284",
             "website": "https://pgmgent-2324-iwebapp.github.io/interactive-diorama-Niki284/#/interactive-diorama",
             "info":"Dit project richt zich op het visualiseren van een eiland in 3D. Het proces begint met het creëren van 3D-objecten in Blender, een populaire tool voor 3D-modellering."

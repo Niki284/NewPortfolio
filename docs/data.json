@@ -42,14 +42,6 @@
             "github": "https://github.com/pgmgent-2324-ixr/eindopdracht-Niki284/",
             "website": "https://pgmgent-2324-ixr.github.io/eindopdracht-Niki284/#/rapier/world",
             "info":"Dit project richt zich op het visualiseren van een hogeschool in 3D. Het proces begint met het creëren van 3D-objecten in Blender, een populaire tool voor 3D-modellering. Deze objecten worden vervolgens geëxporteerd naar React, een JavaScript-framework voor het bouwen van webapplicaties. In React worden de objecten nauwkeurig gepositioneerd om de structuur en indeling van de hogeschool weer te geven. Het eindresultaat is een interactieve 3D-weergave van de hogeschool, waarin gebruikers de lay-out en architectuur vanuit verschillende perspectieven kunnen bekijken."
-        },
-        {   
-            "id": 6,
-            "name": "Europa Universalles IV",
-            "picture": "../Img/logobootstrap.png",
-            "github": "https://github.com/Niki284/BootsrapSite.io",
-            "website": "https://niki284.github.io/BootsrapSite.io/",
-            "info":"Europa uiniversalles IV spel die ik heb gekozen om te uitlegen.Als je wil meer weten van die spel dan moet je heer kliken."
         }
     ]
 }
